@@ -1,9 +1,16 @@
-<h1 align="center">Hi, I'm Daniel Deshmukh </h1>
-<p align="center">
+<div align="center">
+  <a href="https://danieldeshmukh.netlify.app/">
+    <img src="assets/banner.png" alt="Daniel Deshmukh | SaaS & Automation" width="100%" />
+  </a>
+</div>
+<br>
+
+<h1 align="left">Hi, I'm Daniel Deshmukh </h1>
+<p align="left">
   <strong>Full-Stack Software Architect | SaaS Developer | AI Implementation Specialist</strong>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=danieldeshmukh&label=Profile%20views&color=2e7ad1&style=flat-square" alt="danieldeshmukh" />
 </p>
 
@@ -45,11 +52,11 @@
 
 ###  GitHub Metrics
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=danieldeshmukh&theme=tokyonight&column=7&margin-w=15&v=2" alt="trophies" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Today's Commits & Continuous Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieldeshmukh&theme=tokyonight&border_radius=10&v=3" alt="GitHub Streak" />
 </p>
