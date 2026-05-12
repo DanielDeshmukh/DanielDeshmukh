@@ -49,6 +49,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=danieldeshmukh&theme=tokyonight&column=7&margin-w=15&v=2" alt="trophies" />
 </p>
 
+<p align="center">
+  <!-- Today's Commits & Continuous Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieldeshmukh&theme=tokyonight&border_radius=10&v=3" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Total Commits (Including Jan 1st - Today) & Language Stats -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=danieldeshmukh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&v=3" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieldeshmukh&show_icons=true&theme=tokyonight&layout=compact&border_radius=10&v=3" alt="Top Languages" height="170" /> -->
+</p>
+
 ---
 
 ### Connect With Me
