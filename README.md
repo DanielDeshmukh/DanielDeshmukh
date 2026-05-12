@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://danieldeshmukh.netlify.app/">
-    <img src="assets/banner.png" alt="Daniel Deshmukh | SaaS & Automation" width="100%" />
+    <img src="assets/banner-image.png" alt="Daniel Deshmukh | SaaS & Automation" width="100%" />
   </a>
 </div>
 <br>
