@@ -188,34 +188,25 @@ autobot-swarm --help
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DanielDeshmukh&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="165"/>
+## GitHub Activity
+<div>
+ <img src="https://streak-stats.demolab.com/?user=DanielDeshmukh&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-three-black-72.vercel.app/api/top-langs?username=DanielDeshmukh&theme=tokyonight&layout=compact&border_radius=8&hide=html,css" alt="Top Languages" height="165"/>
 </div>
-
 <br/>
-
-<p align="center">
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
+<p>
+  <a href="https://github.com/DanielDeshmukh/beautiful-github-homepage">
     <picture>
       <img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=DanielDeshmukh&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="DanielDeshmukh" />
     </picture>
   </a>
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
+  <a href="https://github.com/DanielDeshmukh/beautiful-github-homepage">
     <picture>
       <img height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=DanielDeshmukh&hide_title=false&layout=compact&theme=gotham&count_private=true" />
     </picture>
   </a>
 </p>
-
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanielDeshmukh&theme=tokyonight&column=7&margin-w=12&no-frame=true" alt="trophies" />
-</div>
 
 <br/>
 
