@@ -224,7 +224,7 @@ autobot-swarm --help
 | Claude with Anthropic API · Claude Code 101 · Claude Code in Action | Anthropic Academy |
 | Introduction to MCP · MCP Advanced Topics | Anthropic Academy |
 | Introduction to Agent Skills · Introduction to Sub Agents | Anthropic Academy |
-| CS50 AI with Python · CS50 Databases with SQL | Harvard / edX |
+| CS50 AI with Python · CS50 Databases with SQL | Harvard |
 | JavaScript Algorithms & Data Structures · Front End Libraries · Responsive Web Design | freeCodeCamp |
 | B10X League | B10X |
 | Samsung Innovation (GitHub Copilot Workshop) | Samsung |
@@ -257,10 +257,7 @@ autobot-swarm --help
   <a href="https://twitter.com/deshmukhda71837">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/deshmukhdaniel">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+
 </div>
 
 <br/>
