@@ -215,17 +215,19 @@ autobot-swarm --help
 ## 🎓 Certifications
 
 <details>
-<summary>View 12+ certifications across AI, ML, and CS fundamentals</summary>
+<summary>View 14+ certifications across AI, ML, and CS fundamentals</summary>
 
 <br/>
 
 | Certification | Issuer |
 |---|---|
-| Claude 101 · Claude Code 101 · Claude Code in Action | Anthropic Academy |
+| Claude with Anthropic API · Claude Code 101 · Claude Code in Action | Anthropic Academy |
 | Introduction to MCP · MCP Advanced Topics | Anthropic Academy |
-| Introduction to Agent Skills · Introduction to Subagents | Anthropic Academy |
-| CS50x · CS50 SQL | Harvard / edX |
-| JavaScript Algorithms & Data Structures · Responsive Web Design · Scientific Computing with Python | freeCodeCamp |
+| Introduction to Agent Skills · Introduction to Sub Agents | Anthropic Academy |
+| CS50 AI with Python · CS50 Databases with SQL | Harvard / edX |
+| JavaScript Algorithms & Data Structures · Front End Libraries · Responsive Web Design | freeCodeCamp |
+| B10X League | B10X |
+| Samsung Innovation (GitHub Copilot Workshop) | Samsung |
 
 </details>
 
