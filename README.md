@@ -32,7 +32,7 @@
 ## ⚡ What I'm Building
 
 <details open>
-<summary><b>🤖 autobot-swarm</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/autobot-swarm">GitHub</a> &nbsp;·&nbsp; <img src="https://img.shields.io/pypi/v/autobot-swarm?color=6366f1&label=PyPI&style=flat-square" /></summary>
+<summary><b>🤖 autobot-swarm</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/autobots">GitHub</a> &nbsp;·&nbsp; <img src="https://img.shields.io/pypi/v/autobot-swarm?color=6366f1&label=PyPI&style=flat-square" /></summary>
 
 <br/>
 
