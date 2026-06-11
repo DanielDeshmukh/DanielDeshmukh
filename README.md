@@ -25,6 +25,10 @@
   <sub>Mumbai · CS Graduate, Mumbai University · Targeting Germany & Abu Dhabi</sub>
 </p>
 
+<p align="center">
+  <sub><b>Currently:</b> Fine-tuning Mistral 7B on Indian statutory law (THEMIS) · Targeting AI Engineer roles in Germany & Abu Dhabi</sub>
+</p>
+
 <br/>
 
 ---
@@ -55,6 +59,43 @@ autobot-swarm --help
 ---
 
 <details>
+<summary><b>⚖️ THEMIS</b> &nbsp;·&nbsp; LoRA Fine-tune · Mistral 7B on Indian Statutory Law</summary>
+
+<br/>
+
+> **LoRA/QLoRA fine-tune of Mistral 7B Instruct v0.3 on Indian statutory law — hands-on fine-tuning beyond API wrapping.**
+
+| Detail | Value |
+|---|---|
+| Base model | Mistral 7B Instruct v0.3 |
+| Method | LoRA · QLoRA |
+| Domain | Indian statutory law (IPC, BNS 2023, CrPC) |
+| Training | Kaggle T4 GPU · batch size 1 · seq len 1024 |
+| Status | 🟡 Training in progress |
+
+</details>
+
+---
+
+<details>
+<summary><b>🛡️ AETHER</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/aether">GitHub</a> &nbsp;·&nbsp; Autonomous Pentest Platform</summary>
+
+<br/>
+
+> **LangGraph-powered agentic reasoning loop for autonomous security audits — browser-native recon via Playwright.**
+
+| Detail | Value |
+|---|---|
+| Stack | LangGraph · Playwright · Gemini · Claude |
+| Architecture | Multi-step agentic loop: recon → vulnerability scan → exploit → report |
+| Recon | Browser automation via Playwright for live target interaction |
+| Output | Structured audit report with findings and severity classification |
+
+</details>
+
+---
+
+<details>
 <summary><b>⚖️ HECTOR</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/Hector">GitHub</a> &nbsp;·&nbsp; Indian Legal RAG Engine</summary>
 
 <br/>
@@ -67,23 +108,6 @@ autobot-swarm --help
 | Protocol | Chain-of-Verification (CoVe) |
 | Coverage | IPC → BNS 2023 full mapping |
 | Use case | Legal decision support & document retrieval |
-
-</details>
-
----
-
-<details>
-<summary><b>🛡️ AETHER</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/aether">GitHub</a> &nbsp;·&nbsp; Autonomous Pentest Platform</summary>
-
-<br/>
-
-> **LangGraph-powered agentic reasoning loop for autonomous security audits.**
-
-| Detail | Value |
-|---|---|
-| Stack | LangGraph · Playwright · Gemini · Claude |
-| Architecture | Agentic reasoning loops |
-| Mode | Autonomous recon → exploit → report |
 
 </details>
 
@@ -118,24 +142,6 @@ autobot-swarm --help
 | Stack | React · Node.js · Supabase · Capacitor |
 | Platform | Web + Android APK |
 | Status | 🟢 Live since July 2024 |
-
-</details>
-
----
-
-<details>
-<summary><b>⚖️ THEMIS</b> &nbsp;·&nbsp; LoRA Fine-tune in Progress</summary>
-
-<br/>
-
-> **Mistral 7B Instruct v0.3 fine-tuned on Indian statutory law using LoRA/QLoRA.**
-
-| Detail | Value |
-|---|---|
-| Base model | Mistral 7B Instruct v0.3 |
-| Method | LoRA · QLoRA |
-| Domain | Indian statutory law |
-| Training | Kaggle T4 GPU |
 
 </details>
 
@@ -188,10 +194,10 @@ autobot-swarm --help
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
+
 <div>
- <img src="https://streak-stats.demolab.com/?user=DanielDeshmukh&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="165"/>
-  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=DanielDeshmukh&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="165"/>
 </div>
 <br/>
 <p>
@@ -206,7 +212,6 @@ autobot-swarm --help
     </picture>
   </a>
 </p>
-<br/>
 
 <br/>
 
@@ -215,7 +220,7 @@ autobot-swarm --help
 ## 🎓 Certifications
 
 <details>
-<summary>View 14+ certifications across AI, ML, and CS fundamentals</summary>
+<summary>View 13+ certifications across AI, ML, and CS fundamentals</summary>
 
 <br/>
 
@@ -226,7 +231,6 @@ autobot-swarm --help
 | Introduction to Agent Skills · Introduction to Sub Agents | Anthropic Academy |
 | CS50 AI with Python · CS50 Databases with SQL | Harvard |
 | JavaScript Algorithms & Data Structures · Front End Libraries · Responsive Web Design | freeCodeCamp |
-| B10X League | B10X |
 | Samsung Innovation (GitHub Copilot Workshop) | Samsung |
 
 </details>
@@ -253,11 +257,6 @@ autobot-swarm --help
   <a href="https://pypi.org/user/danieldeshmukh">
     <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/deshmukhda71837">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-
 </div>
 
 <br/>
