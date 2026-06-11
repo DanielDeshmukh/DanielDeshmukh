@@ -195,7 +195,6 @@ autobot-swarm --help
 ---
 
 ## 📊 GitHub Activity
-
 <div>
   <img src="https://streak-stats.demolab.com/?user=DanielDeshmukh&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="165"/>
 </div>
@@ -203,16 +202,15 @@ autobot-swarm --help
 <p>
   <a href="https://github.com/DanielDeshmukh/beautiful-github-homepage">
     <picture>
-      <img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=DanielDeshmukh&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="DanielDeshmukh" />
+      <img height='150px' src="https://beautiful-github-homepage-virid.vercel.app/api?username=DanielDeshmukh&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="DanielDeshmukh" />
     </picture>
   </a>
   <a href="https://github.com/DanielDeshmukh/beautiful-github-homepage">
     <picture>
-      <img height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=DanielDeshmukh&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+      <img height='150px' src="https://beautiful-github-homepage-virid.vercel.app/api/top-langs/?username=DanielDeshmukh&hide_title=false&layout=compact&theme=gotham&count_private=true" />
     </picture>
   </a>
 </p>
-
 <br/>
 
 ---
