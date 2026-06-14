@@ -36,7 +36,7 @@
 ## ⚡ What I'm Building
 
 <details open>
-<summary><b>🤖 autobot-swarm</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/autobots">GitHub</a> &nbsp;·&nbsp; <img src="https://img.shields.io/pypi/v/autobot-swarm?color=6366f1&label=PyPI&style=flat-square" /></summary>
+<summary><b>🤖 autobot-swarm</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/autobots">GitHub</a> &nbsp;·&nbsp; <img src="https://img.shields.io/pypi/v/autobot-swarm?color=6366f1&label=PyPI&style=flat-square" /> &nbsp;·&nbsp; <img src="https://img.shields.io/github/stars/DanielDeshmukh/autobots?style=flat-square&color=6366f1&label=stars" /></summary>
 
 <br/>
 
@@ -78,7 +78,7 @@ autobot-swarm --help
 ---
 
 <details>
-<summary><b>🛡️ AETHER</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/aether">GitHub</a> &nbsp;·&nbsp; Autonomous Pentest Platform</summary>
+<summary><b>🛡️ AETHER</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/aether">GitHub</a> &nbsp;·&nbsp; Autonomous Pentest Platform &nbsp;·&nbsp; <img src="https://img.shields.io/github/stars/DanielDeshmukh/aether?style=flat-square&color=6366f1&label=stars" /></summary>
 
 <br/>
 
@@ -96,7 +96,7 @@ autobot-swarm --help
 ---
 
 <details>
-<summary><b>⚖️ HECTOR</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/Hector">GitHub</a> &nbsp;·&nbsp; Indian Legal RAG Engine</summary>
+<summary><b>⚖️ HECTOR</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/Hector">GitHub</a> &nbsp;·&nbsp; Indian Legal RAG Engine &nbsp;·&nbsp; <img src="https://img.shields.io/github/stars/DanielDeshmukh/Hector?style=flat-square&color=6366f1&label=stars" /></summary>
 
 <br/>
 
@@ -114,7 +114,7 @@ autobot-swarm --help
 ---
 
 <details>
-<summary><b>🏥 Ella</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/ella">GitHub</a> &nbsp;·&nbsp; Medical Triage RAG Engine</summary>
+<summary><b>🏥 Ella</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/ella">GitHub</a> &nbsp;·&nbsp; Medical Triage RAG Engine &nbsp;·&nbsp; <img src="https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&color=6366f1&label=stars" /></summary>
 
 <br/>
 
@@ -195,6 +195,7 @@ autobot-swarm --help
 ---
 
 ## 📊 GitHub Activity
+
 <div>
   <img src="https://streak-stats.demolab.com/?user=DanielDeshmukh&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="165"/>
 </div>
@@ -211,6 +212,18 @@ autobot-swarm --help
     </picture>
   </a>
 </p>
+
+<br/>
+
+### ⭐ Top repos by stars
+
+| Repo | Stars | Description |
+|---|---|---|
+| [autobot-swarm](https://github.com/DanielDeshmukh/autobots) | ![stars](https://img.shields.io/github/stars/DanielDeshmukh/autobots?style=flat-square&label=%20) | NVIDIA NIM multi-agent CLI, PyPI-published |
+| [AETHER](https://github.com/DanielDeshmukh/aether) | ![stars](https://img.shields.io/github/stars/DanielDeshmukh/aether?style=flat-square&label=%20) | Autonomous pentest platform, LangGraph + Playwright |
+| [HECTOR](https://github.com/DanielDeshmukh/Hector) | ![stars](https://img.shields.io/github/stars/DanielDeshmukh/Hector?style=flat-square&label=%20) | Indian legal RAG, Chain-of-Verification |
+| [Ella](https://github.com/DanielDeshmukh/ella) | ![stars](https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&label=%20) | Medical triage RAG, Hard-RAG protocol |
+
 <br/>
 
 ---
