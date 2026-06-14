@@ -207,7 +207,6 @@ Café POS running in production since July 2024, with real users and real transa
 <div>
   <img src="https://streak-stats.demolab.com/?user=DanielDeshmukh&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="165"/>
 </div>
-<br/>
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api/?username=DanielDeshmukh&show_icons=true&theme=tokyonight&hide=contribs&border_radius=8" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDeshmukh&layout=compact&theme=tokyonight&border_radius=8&count_private=true" alt="Top languages" />
