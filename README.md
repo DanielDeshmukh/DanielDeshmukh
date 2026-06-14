@@ -150,50 +150,58 @@ Café POS running in production since July 2024, with real users and real transa
 ---
 
 ## Stack
-
+ 
 <table>
   <tr>
     <td align="center" width="140"><b>AI & Agents</b></td>
     <td>
       <img src="https://img.shields.io/badge/LangGraph-1c1c1c?style=flat-square&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1c1c1c?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude%20API-1c1c1c?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini-1c1c1c?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/NVIDIA%20NIM-1c1c1c?style=flat-square&logo=nvidia&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,python&theme=dark" />
+      <img src="https://img.shields.io/badge/FastAPI-1c1c1c?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-1c1c1c?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-1c1c1c?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-1c1c1c?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
+      <img src="https://img.shields.io/badge/React-1c1c1c?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-1c1c1c?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-1c1c1c?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-1c1c1c?style=flat-square&logo=tailwindcss&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Data & Storage</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" />
-      <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
-      <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-1c1c1c?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-1c1c1c?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Qdrant-1c1c1c?style=flat-square&logo=qdrant&logoColor=white" />
+      <img src="https://img.shields.io/badge/pgvector-1c1c1c?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,netlify,postman&theme=dark" />
+      <img src="https://img.shields.io/badge/Docker-1c1c1c?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-1c1c1c?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netlify-1c1c1c?style=flat-square&logo=netlify&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-1c1c1c?style=flat-square&logo=postman&logoColor=white" />
     </td>
   </tr>
 </table>
-
 <br/>
 
 ---
-
 ## GitHub Activity
 
 <div>
