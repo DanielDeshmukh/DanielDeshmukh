@@ -262,21 +262,36 @@ All public repositories, ranked by stars collected.
 ---
 
 ## Connect
-
 <div align="center">
   <a href="https://linkedin.com/in/daniel-deshmukh-7b08602b2">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   &nbsp;
   <a href="mailto:deshmukhdaniel2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   &nbsp;
   <a href="https://danieldeshmukh.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
   </a>
   &nbsp;
   <a href="https://pypi.org/user/danieldeshmukh">
-    <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyPI-181717?style=for-the-badge&logo=pypi&logoColor=3775A9" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DanielDeshmukh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/Daniel2503">
+    <img src="https://img.shields.io/badge/HuggingFace-181717?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  </a>
+  &nbsp;
+  <a href="https://kaggle.com/danieldeshmukh">
+    <img src="https://img.shields.io/badge/Kaggle-181717?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/DeshmukhDa71837">
+    <img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
