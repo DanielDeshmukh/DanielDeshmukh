@@ -221,7 +221,7 @@ All public repositories, ranked by stars collected.
 | Repository | Stars | Description |
 |---|---|---|
 | [awesome-nvidia-nim](https://github.com/DanielDeshmukh/awesome-nvidia-nim) | 6 | Curated list of resources for building with NVIDIA NIM inference microservices |
-| [github-profile-score](https://github.com/DanielDeshmukh/github-profile-score) | 4 | Embeddable job-readiness scorer for GitHub profiles |
+| [github-profile-score](https://github.com/DanielDeshmukh/github-profile-score) | 3 | Embeddable job-readiness scorer for GitHub profiles |
 | [autobot-swarm](https://github.com/DanielDeshmukh/autobots) | 3 | Decentralized multi-agent swarm powered by NVIDIA NIM, published on PyPI |
 | [themis](https://github.com/DanielDeshmukh/themis) | 2 | Domain-specific LLM fine-tuned on Indian statutory law |
 | [aether](https://github.com/DanielDeshmukh/aether) | 1 | Autonomous pentest platform with agentic reasoning loop |
