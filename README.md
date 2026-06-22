@@ -245,7 +245,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/awesome-nvidia-nim">awesome-nvidia-nim</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/awesome-nvidia-nim?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/awesome-nvidia-nim?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -254,7 +254,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/github-profile-score">github-profile-score</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -263,7 +263,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/autobots">autobot-swarm</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/autobots?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/autobots?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -272,7 +272,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/themis">themis</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/themis?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -281,7 +281,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/aether">aether</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/aether?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/aether?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -290,7 +290,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/Hector">Hector</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/Hector?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/Hector?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -299,7 +299,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/proteus">proteus</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/proteus?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/proteus?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -308,7 +308,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/sportz-websockets">sportz-websockets</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/sportz-websockets?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/sportz-websockets?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -317,7 +317,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/Portfolio">Portfolio</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/Portfolio?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/Portfolio?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -326,7 +326,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/ella">ella</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/ella?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -335,7 +335,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/TradeX">TradeX</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/TradeX?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/TradeX?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -344,7 +344,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/BabujiChaay-website">BabujiChaay-website</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/BabujiChaay-website?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/BabujiChaay-website?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -353,7 +353,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/Babuji-Chaay">Babuji-Chaay</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/Babuji-Chaay?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/Babuji-Chaay?style=flat-square&color=6366f1&label=forks" />
 </td>
@@ -362,7 +362,7 @@ Café POS running in production since July 2024, with real users and real transa
 
 <tr>
 <td><a href="https://github.com/DanielDeshmukh/Interior-Designs-Template">Interior-Designs-Template</a></td>
-<td align="center" nowrap>
+<td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/Interior-Designs-Template?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/Interior-Designs-Template?style=flat-square&color=6366f1&label=forks" />
 </td>
