@@ -204,15 +204,31 @@ Café POS running in production since July 2024, with real users and real transa
 ---
 ## GitHub Activity
 
-<div>
-  <img src="https://streak-stats.demolab.com/?user=DanielDeshmukh&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="165"/>
-</div>
+### Profile Score
+[![Job Readiness Score](https://github-profile-score-production-db22.up.railway.app/score/DanielDeshmukh.svg)](https://github-profile-score-production-db22.up.railway.app/score/DanielDeshmukh/html)
+
+### Contributions & Streaks
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/?username=DanielDeshmukh&show_icons=true&theme=tokyonight&hide=contribs&border_radius=8" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDeshmukh&layout=compact&theme=tokyonight&border_radius=8&count_private=true" alt="Top languages" />
+  <img src="https://github-profile-score-production-db22.up.railway.app/stats/DanielDeshmukh/contributions.svg" alt="Contributions" />
+</p>
+<p>
+  <img src="https://github-profile-score-production-db22.up.railway.app/stats/DanielDeshmukh/overview.svg" alt="Overview" />
+  <img src="https://github-profile-score-production-db22.up.railway.app/stats/DanielDeshmukh/languages.svg" alt="Languages" />
 </p>
 
-<br/>
+### Insights
+<p>
+  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/most-active-repo.svg" alt="Most Active Repo" />
+  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/most-starred-repo.svg" alt="Most Starred Repo" />
+  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/account-age.svg" alt="Account Age" />
+  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/longest-maintained-repo.svg" alt="Longest Maintained Repo" />
+</p>
+<p>
+  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/contribution-trend.svg" alt="Contribution Trend" />
+  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/avg-commits-per-repo.svg" alt="Avg Commits per Repo" />
+  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/commits-per-tenure.svg" alt="Commits per Tenure" />
+  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/commit-pattern.svg" alt="Commit Pattern" />
+</p>
 
 ## Public Repositories
 
