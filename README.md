@@ -216,26 +216,22 @@ Café POS running in production since July 2024, with real users and real transa
 
 ### Repositories by stars
 
-All public repositories, ranked by stars collected.
-
-| Repository | Stars | Description |
+| Repository | ⭐ Stars &nbsp; 🍴 Forks | Description |
 |---|---|---|
-| [awesome-nvidia-nim](https://github.com/DanielDeshmukh/awesome-nvidia-nim) | 6 | Curated list of resources for building with NVIDIA NIM inference microservices |
-| [github-profile-score](https://github.com/DanielDeshmukh/github-profile-score) | 3 | Embeddable job-readiness scorer for GitHub profiles |
-| [autobot-swarm](https://github.com/DanielDeshmukh/autobots) | 3 | Decentralized multi-agent swarm powered by NVIDIA NIM, published on PyPI |
-| [themis](https://github.com/DanielDeshmukh/themis) | 2 | Domain-specific LLM fine-tuned on Indian statutory law |
-| [aether](https://github.com/DanielDeshmukh/aether) | 1 | Autonomous pentest platform with agentic reasoning loop |
-| [Hector](https://github.com/DanielDeshmukh/Hector) | 1 | Hard-RAG legal intelligence system for Indian law, IPC to BNS mapping |
-| [proteus](https://github.com/DanielDeshmukh/proteus) | 1 | JD-aware application toolkit with a five-agent NVIDIA NIM pipeline |
-| [sportz-websockets](https://github.com/DanielDeshmukh/sportz-websockets) | 1 | Express + Postgres live match commentary via WebSocket |
-| [Portfolio](https://github.com/DanielDeshmukh/Portfolio) | 0 | Full-stack developer portfolio |
-| [ella](https://github.com/DanielDeshmukh/ella) | 0 | RAG-based agentic core for medical telephony and patient triage |
-| [TradeX](https://github.com/DanielDeshmukh/TradeX) | 0 | AI-powered trading platform for new investors |
-| [BabujiChaay-website](https://github.com/DanielDeshmukh/BabujiChaay-website) | 0 | Production café website |
-| [Babuji-Chaay](https://github.com/DanielDeshmukh/Babuji-Chaay) | 0 | POS and inventory management system for cafés |
-| [Interior-Designs-Template](https://github.com/DanielDeshmukh/Interior-Designs-Template) | 0 | Portfolio site template for interior designers |
-
-<br/>
+| [awesome-nvidia-nim](https://github.com/DanielDeshmukh/awesome-nvidia-nim) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/awesome-nvidia-nim?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/awesome-nvidia-nim?style=flat&label=🍴) | Curated list of resources for building with NVIDIA NIM inference microservices |
+| [github-profile-score](https://github.com/DanielDeshmukh/github-profile-score) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/github-profile-score?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/github-profile-score?style=flat&label=🍴) | Embeddable job-readiness scorer for GitHub profiles |
+| [autobot-swarm](https://github.com/DanielDeshmukh/autobots) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/autobots?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/autobots?style=flat&label=🍴) | Decentralized multi-agent swarm powered by NVIDIA NIM, published on PyPI |
+| [themis](https://github.com/DanielDeshmukh/themis) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/themis?style=flat&label=🍴) | Domain-specific LLM fine-tuned on Indian statutory law |
+| [aether](https://github.com/DanielDeshmukh/aether) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/aether?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/aether?style=flat&label=🍴) | Autonomous pentest platform with agentic reasoning loop |
+| [Hector](https://github.com/DanielDeshmukh/Hector) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/Hector?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/Hector?style=flat&label=🍴) | Hard-RAG legal intelligence system for Indian law, IPC to BNS mapping |
+| [proteus](https://github.com/DanielDeshmukh/proteus) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/proteus?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/proteus?style=flat&label=🍴) | JD-aware application toolkit with a five-agent NVIDIA NIM pipeline |
+| [sportz-websockets](https://github.com/DanielDeshmukh/sportz-websockets) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/sportz-websockets?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/sportz-websockets?style=flat&label=🍴) | Express + Postgres live match commentary via WebSocket |
+| [Portfolio](https://github.com/DanielDeshmukh/Portfolio) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/Portfolio?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/Portfolio?style=flat&label=🍴) | Full-stack developer portfolio |
+| [ella](https://github.com/DanielDeshmukh/ella) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/ella?style=flat&label=🍴) | RAG-based agentic core for medical telephony and patient triage |
+| [TradeX](https://github.com/DanielDeshmukh/TradeX) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/TradeX?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/TradeX?style=flat&label=🍴) | AI-powered trading platform for new investors |
+| [BabujiChaay-website](https://github.com/DanielDeshmukh/BabujiChaay-website) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/BabujiChaay-website?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/BabujiChaay-website?style=flat&label=🍴) | Production café website |
+| [Babuji-Chaay](https://github.com/DanielDeshmukh/Babuji-Chaay) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/Babuji-Chaay?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/Babuji-Chaay?style=flat&label=🍴) | POS and inventory management system for cafés |
+| [Interior-Designs-Template](https://github.com/DanielDeshmukh/Interior-Designs-Template) | ![Stars](https://img.shields.io/github/stars/DanielDeshmukh/Interior-Designs-Template?style=flat&label=⭐) ![Forks](https://img.shields.io/github/forks/DanielDeshmukh/Interior-Designs-Template?style=flat&label=🍴) | Portfolio site template for interior designers |
 
 ---
 
