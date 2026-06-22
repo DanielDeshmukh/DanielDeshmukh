@@ -205,7 +205,8 @@ Café POS running in production since July 2024, with real users and real transa
 ## GitHub Activity
 
 ### Profile Score
-[![Job Readiness Score](https://github-profile-score-production-db22.up.railway.app/score/DanielDeshmukh.svg)](https://github-profile-score-production-db22.up.railway.app/score/DanielDeshmukh/html)
+
+[![Score](https://github-profile-score-production-db22.up.railway.app/score/DanielDeshmukh.svg?t=1)](https://github-profile-score-production-db22.up.railway.app/score/DanielDeshmukh.svg?t=1)
 
 ### Contributions & Streaks
 <p>
