@@ -31,121 +31,93 @@
 
 <br/>
 
----
-
-## What I'm Building
-
-<details open>
-<summary><b>autobot-swarm</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/autobots">GitHub</a> &nbsp;·&nbsp; <img src="https://img.shields.io/pypi/v/autobot-swarm?color=6366f1&label=PyPI&style=flat-square" /> &nbsp;·&nbsp; <img src="https://img.shields.io/github/stars/DanielDeshmukh/autobots?style=flat-square&color=6366f1&label=stars" /></summary>
+<div align="center">
+  <img src="https://img.shields.io/badge/20_repos-181818?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/59_stars-181818?style=for-the-badge&logo=github&logoColor=yellow" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/5_live_apps-181818?style=for-the-badge&logo=rocket&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PyPI_package-181818?style=for-the-badge&logo=pypi&logoColor=white" />
+</div>
 
 <br/>
-
-Multi-agent CLI for NVIDIA NIM orchestration, published on PyPI.
-
-| Detail | Value |
-|---|---|
-| Tests | 465+ passing |
-| Models discovered | 120 live from NVIDIA catalog |
-| Skill files | 17 integrated |
-| Version | v0.1.9 → v0.2.0 in progress |
-
-```bash
-pip install autobot-swarm
-autobot-swarm --help
-```
-
-</details>
 
 ---
 
-<details>
-<summary><b>THEMIS</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/themis">GitHub</a> &nbsp;·&nbsp; LoRA Fine-tune · Mistral 7B on Indian Statutory Law &nbsp;·&nbsp; <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat-square&color=6366f1&label=stars" /></summary>
+## Pinned Repos
 
-<br/>
-
-LoRA/QLoRA fine-tune of Mistral 7B Instruct v0.3 on Indian statutory law — hands-on fine-tuning beyond API wrapping.
-
-| Detail | Value |
-|---|---|
-| Base model | Mistral 7B Instruct v0.3 |
-| Method | LoRA · QLoRA |
-| Domain | Indian statutory law (IPC, BNS 2023, CrPC) |
-| Training | Kaggle T4 GPU · batch size 1 · seq len 1024 |
-| Status | Training in progress |
-
-</details>
-
----
-
-<details>
-<summary><b>AETHER</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/aether">GitHub</a> &nbsp;·&nbsp; Autonomous Pentest Platform &nbsp;·&nbsp; <img src="https://img.shields.io/github/stars/DanielDeshmukh/aether?style=flat-square&color=6366f1&label=stars" /></summary>
-
-<br/>
-
-LangGraph-powered agentic reasoning loop for autonomous security audits, with browser-native recon via Playwright.
-
-| Detail | Value |
-|---|---|
-| Stack | LangGraph · Playwright · Gemini · Claude |
-| Architecture | Multi-step agentic loop: recon → vulnerability scan → exploit → report |
-| Recon | Browser automation via Playwright for live target interaction |
-| Output | Structured audit report with findings and severity classification |
-
-</details>
-
----
-
-<details>
-<summary><b>HECTOR</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/Hector">GitHub</a> &nbsp;·&nbsp; Indian Legal RAG Engine &nbsp;·&nbsp; <img src="https://img.shields.io/github/stars/DanielDeshmukh/Hector?style=flat-square&color=6366f1&label=stars" /></summary>
-
-<br/>
-
-Chain-of-Verification RAG over Indian statutory law, with IPC to BNS 2023 mapping built in.
-
-| Detail | Value |
-|---|---|
-| Stack | FastAPI · Next.js · LangGraph · Qdrant |
-| Protocol | Chain-of-Verification (CoVe) |
-| Coverage | IPC → BNS 2023 full mapping |
-| Use case | Legal decision support & document retrieval |
-
-</details>
-
----
-
-<details>
-<summary><b>Ella</b> &nbsp;·&nbsp; <a href="https://github.com/DanielDeshmukh/ella">GitHub</a> &nbsp;·&nbsp; Medical Triage RAG Engine &nbsp;·&nbsp; <img src="https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&color=6366f1&label=stars" /></summary>
-
-<br/>
-
-Clinical-grade RAG with a Hard-RAG protocol providing hallucination guardrails for medical queries.
-
-| Detail | Value |
-|---|---|
-| Stack | LangGraph · FastAPI · Qdrant |
-| Protocol | Hard-RAG (citation-locked retrieval) |
-| Use case | Patient triage & clinical decision support |
-
-</details>
-
----
-
-<details>
-<summary><b>babujichaay.com</b> &nbsp;·&nbsp; <a href="https://babujichaay.com">Live</a> &nbsp;·&nbsp; Production POS System</summary>
-
-<br/>
-
-Café POS running in production since July 2024, with real users and real transactions.
-
-| Detail | Value |
-|---|---|
-| Stack | React · Node.js · Supabase · Capacitor |
-| Platform | Web + Android APK |
-| Status | Live since July 2024 |
-
-</details>
-
-<br/>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/DanielDeshmukh/autobots">autobot-swarm</a></h4>
+      <p><i>Multi-agent CLI for NVIDIA NIM orchestration</i></p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/DanielDeshmukh/autobots?style=flat-square&color=6366f1" />
+      <img src="https://img.shields.io/pypi/v/autobot-swarm?color=6366f1&label=PyPI&style=flat-square" />
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/DanielDeshmukh/themis">THEMIS</a></h4>
+      <p><i>LoRA fine-tune of Mistral 7B on Indian law</i></p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <a href="https://huggingface.co/Daniel2503/themis-mistral-7b-lora-v2"><img src="https://img.shields.io/badge/themis--mistral--7b--lora--v2-181818?style=flat-square&logo=huggingface&logoColor=white" /></a>
+      <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat-square&color=6366f1" />
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/DanielDeshmukh/aether">AETHER</a></h4>
+      <p><i>Autonomous pentest with agentic reasoning</i></p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/DanielDeshmukh/aether?style=flat-square&color=6366f1" />
+      <a href="https://aether-pentesting.netlify.app/"><img src="https://img.shields.io/badge/Live-6366f1?style=flat-square" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/DanielDeshmukh/Hector">HECTOR</a></h4>
+      <p><i>Chain-of-Verification RAG for Indian law</i></p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/DanielDeshmukh/Hector?style=flat-square&color=6366f1" />
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/DanielDeshmukh/ella">Ella</a></h4>
+      <p><i>Medical triage RAG with hallucination guardrails</i></p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&color=6366f1" />
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/DanielDeshmukh/proteus">PROTEUS</a></h4>
+      <p><i>5-agent JD-aware resume analyzer</i></p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/DanielDeshmukh/proteus?style=flat-square&color=6366f1" />
+      <a href="https://proteus-phi.vercel.app"><img src="https://img.shields.io/badge/Live-6366f1?style=flat-square" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/DanielDeshmukh/CodeSage">CodeSage</a></h4>
+      <p><i>AI codebase examiner for interviews</i></p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/DanielDeshmukh/CodeSage?style=flat-square&color=6366f1" />
+      <a href="https://codesage-nu.vercel.app"><img src="https://img.shields.io/badge/Live-6366f1?style=flat-square" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/DanielDeshmukh/github-profile-score">github-profile-score</a></h4>
+      <p><i>Embeddable GitHub profile scorer</i></p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1" />
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/DanielDeshmukh/TradeX">TradeX</a></h4>
+      <p><i>AI-powered trading platform</i></p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/github/stars/DanielDeshmukh/TradeX?style=flat-square&color=6366f1" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -202,33 +174,60 @@ Café POS running in production since July 2024, with real users and real transa
 <br/>
 
 ---
+
+## Focus Areas
+
+<div align="center">
+  <a href="https://github.com/DanielDeshmukh/autobots">
+    <img src="https://img.shields.io/badge/AI_%26_Agents-181818?style=for-the-badge&logo=langchain&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DanielDeshmukh/Hector">
+    <img src="https://img.shields.io/badge/RAG_%26_Search-181818?style=for-the-badge&logo=qdrant&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DanielDeshmukh/Babuji-Chaay">
+    <img src="https://img.shields.io/badge/Full_Stack-181818?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DanielDeshmukh/themis">
+    <img src="https://img.shields.io/badge/Fine_Tuning-181818?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DanielDeshmukh/aether">
+    <img src="https://img.shields.io/badge/Agentic_Security-181818?style=for-the-badge&logo=owasp&logoColor=white" />
+  </a>
+</div>
+
+---
+
 ## GitHub Activity
 
 ### Profile Score
 
-[![Score](https://github-profile-score-production-db22.up.railway.app/score/DanielDeshmukh.svg?t=1)](https://github-profile-score-production-db22.up.railway.app/score/DanielDeshmukh.svg?t=1)
+[![Score](https://github-profile-score-five.vercel.app/score/DanielDeshmukh.svg?t=1)](https://github-profile-score-five.vercel.app/score/DanielDeshmukh.svg?t=1)
 
 ### Contributions & Streaks
 <p>
-  <img src="https://github-profile-score-production-db22.up.railway.app/stats/DanielDeshmukh/contributions.svg" alt="Contributions" />
+  <img src="https://github-profile-score-five.vercel.app/stats/DanielDeshmukh/contributions.svg" alt="Contributions" />
 </p>
 <p>
-  <img src="https://github-profile-score-production-db22.up.railway.app/stats/DanielDeshmukh/overview.svg" alt="Overview" />
-  <img src="https://github-profile-score-production-db22.up.railway.app/stats/DanielDeshmukh/languages.svg" alt="Languages" />
+  <img src="https://github-profile-score-five.vercel.app/stats/DanielDeshmukh/overview.svg" alt="Overview" />
+  <img src="https://github-profile-score-five.vercel.app/stats/DanielDeshmukh/languages.svg" alt="Languages" />
 </p>
 
 ### Insights
 <p>
-  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/most-active-repo.svg" alt="Most Active Repo" />
-  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/most-starred-repo.svg" alt="Most Starred Repo" />
-  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/account-age.svg" alt="Account Age" />
-  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/longest-maintained-repo.svg" alt="Longest Maintained Repo" />
+  <img src="https://github-profile-score-five.vercel.app/insights/DanielDeshmukh/most-active-repo.svg" alt="Most Active Repo" />
+  <img src="https://github-profile-score-five.vercel.app/insights/DanielDeshmukh/most-starred-repo.svg" alt="Most Starred Repo" />
+  <img src="https://github-profile-score-five.vercel.app/insights/DanielDeshmukh/account-age.svg" alt="Account Age" />
+  <img src="https://github-profile-score-five.vercel.app/insights/DanielDeshmukh/longest-maintained-repo.svg" alt="Longest Maintained Repo" />
 </p>
 <p>
-  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/contribution-trend.svg" alt="Contribution Trend" />
-  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/avg-commits-per-repo.svg" alt="Avg Commits per Repo" />
-  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/commits-per-tenure.svg" alt="Commits per Tenure" />
-  <img src="https://github-profile-score-production-db22.up.railway.app/insights/DanielDeshmukh/commit-pattern.svg" alt="Commit Pattern" />
+  <img src="https://github-profile-score-five.vercel.app/insights/DanielDeshmukh/contribution-trend.svg" alt="Contribution Trend" />
+  <img src="https://github-profile-score-five.vercel.app/insights/DanielDeshmukh/avg-commits-per-repo.svg" alt="Avg Commits per Repo" />
+  <img src="https://github-profile-score-five.vercel.app/insights/DanielDeshmukh/commits-per-tenure.svg" alt="Commits per Tenure" />
+  <img src="https://github-profile-score-five.vercel.app/insights/DanielDeshmukh/commit-pattern.svg" alt="Commit Pattern" />
 </p>
 
 ## Public Repositories
@@ -307,6 +306,15 @@ Café POS running in production since July 2024, with real users and real transa
 </tr>
 
 <tr>
+<td><a href="https://github.com/DanielDeshmukh/CodeSage">CodeSage</a></td>
+<td align="center" >
+  <img src="https://img.shields.io/github/stars/DanielDeshmukh/CodeSage?style=flat-square&color=6366f1&label=stars" />
+  <img src="https://img.shields.io/github/forks/DanielDeshmukh/CodeSage?style=flat-square&color=6366f1&label=forks" />
+</td>
+<td>AI-powered codebase examiner for viva voce and interview preparation</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/DanielDeshmukh/sportz-websockets">sportz-websockets</a></td>
 <td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/sportz-websockets?style=flat-square&color=6366f1&label=stars" />
@@ -376,21 +384,40 @@ Café POS running in production since July 2024, with real users and real transa
 
 ## Certifications
 
-<details>
-<summary>View 13+ certifications across AI, ML, and CS fundamentals</summary>
+<div align="center">
+
+**Anthropic Academy**
+<br/>
+<img src="https://img.shields.io/badge/Claude%20with%20Anthropic%20API-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20Code%20101-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20Code%20in%20Action-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Intro%20to%20MCP-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP%20Advanced%20Topics-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Intro%20to%20Agent%20Skills-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Intro%20to%20Sub%20Agents-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
 
 <br/>
 
-| Certification | Issuer |
-|---|---|
-| Claude with Anthropic API · Claude Code 101 · Claude Code in Action | Anthropic Academy |
-| Introduction to MCP · MCP Advanced Topics | Anthropic Academy |
-| Introduction to Agent Skills · Introduction to Sub Agents | Anthropic Academy |
-| CS50 AI with Python · CS50 Databases with SQL | Harvard |
-| JavaScript Algorithms & Data Structures · Front End Libraries · Responsive Web Design | freeCodeCamp |
-| Samsung Innovation (GitHub Copilot Workshop) | Samsung |
+**Harvard**
+<br/>
+<img src="https://img.shields.io/badge/CS50%20AI%20with%20Python-A51C30?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/CS50%20Databases%20with%20SQL-A51C30?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-</details>
+<br/>
+
+**freeCodeCamp**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript%20Algorithms%20%26%20Data%20Structures-0A0A23?style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Front%20End%20Libraries-0A0A23?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=html5&logoColor=white" />
+
+<br/>
+
+**Samsung**
+<br/>
+<img src="https://img.shields.io/badge/Samsung%20Innovation%20(GitHub%20Copilot)-1428A0?style=for-the-badge&logo=samsung&logoColor=white" />
+
+</div>
 
 <br/>
 
