@@ -7,11 +7,11 @@
 <br/>
 
 <div align="center">
-  <a href="https://user-badge.committers.top/india_private/danieldeshmukh">
-    <img src="https://user-badge.committers.top/india_private/danieldeshmukh.svg" alt="committers.top badge" />
+  <a href="https://user-badge.committers.top/india_private/DanielDeshmukh">
+    <img src="https://user-badge.committers.top/india_private/DanielDeshmukh.svg" alt="committers.top badge" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=danieldeshmukh&label=Profile%20views&color=6366f1&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DanielDeshmukh&label=Profile%20views&color=6366f1&style=flat-square" alt="profile views" />
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-AI%20Engineer-6366f1?style=flat-square" />
 </div>
