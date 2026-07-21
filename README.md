@@ -22,7 +22,7 @@
 
 <p align="center">
   <strong>I build systems that reason — autonomous agents, RAG pipelines, and production AI.</strong><br/>
-  <sub>Mumbai · CS Graduate, Mumbai University · Targeting Germany & Abu Dhabi</sub>
+  <sub>Mumbai · CS Graduate, Mumbai University</sub>
 </p>
 
 <p align="center">
