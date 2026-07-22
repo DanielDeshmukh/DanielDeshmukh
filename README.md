@@ -22,7 +22,7 @@
 
 <p align="center">
   <strong>I build systems that reason — autonomous agents, RAG pipelines, and production AI.</strong><br/>
-  <sub>Mumbai · CS Graduate, Mumbai University · Targeting Germany & Abu Dhabi</sub>
+  <sub>Mumbai · CS Graduate, Mumbai University</sub>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/20_repos-181818?style=for-the-badge&logo=github&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/59_stars-181818?style=for-the-badge&logo=github&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/58_stars-181818?style=for-the-badge&logo=github&logoColor=yellow" />
   &nbsp;
   <img src="https://img.shields.io/badge/5_live_apps-181818?style=for-the-badge" />
   &nbsp;
@@ -61,7 +61,7 @@
       <h4><a href="https://github.com/DanielDeshmukh/themis">THEMIS</a></h4>
       <p><i>LoRA fine-tune of Mistral 7B on Indian law</i></p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <a href="https://huggingface.co/Daniel2503/themis-mistral-7b-lora-v2"><img src="https://img.shields.io/badge/themis--mistral--7b--lora--v2-181818?style=flat-square&logo=huggingface&logoColor=white" /></a>
+      <a href="https://huggingface.co/Daniel2503/themis-mistral-7b-lora-v3"><img src="https://img.shields.io/badge/themis--v3-181818?style=flat-square&logo=huggingface&logoColor=white" /></a>
       <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat-square&color=6366f1" />
     </td>
     <td width="33%" valign="top">
@@ -69,30 +69,33 @@
       <p><i>Autonomous pentest with agentic reasoning</i></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/github/stars/DanielDeshmukh/aether?style=flat-square&color=6366f1" />
-      <a href="https://aether-pentesting.netlify.app/"><img src="https://img.shields.io/badge/Live-6366f1?style=flat-square" /></a>
+      <a href="https://aether-pentesting.netlify.app/"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <h4><a href="https://github.com/DanielDeshmukh/Hector">HECTOR</a></h4>
-      <p><i>Chain-of-Verification RAG for Indian law</i></p>
+      <p><i>Zero-hallucination legal RAG for Indian law</i></p>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/github/stars/DanielDeshmukh/Hector?style=flat-square&color=6366f1" />
+      <a href="https://hector-nine.vercel.app/landing"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a>
     </td>
     <td width="33%" valign="top">
       <h4><a href="https://github.com/DanielDeshmukh/ella">Ella</a></h4>
       <p><i>Medical triage RAG with hallucination guardrails</i></p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
       <img src="https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&color=6366f1" />
+      <img src="https://img.shields.io/pypi/v/ella-sdk?color=6366f1&label=PyPI&style=flat-square" />
     </td>
     <td width="33%" valign="top">
       <h4><a href="https://github.com/DanielDeshmukh/proteus">PROTEUS</a></h4>
       <p><i>5-agent JD-aware resume analyzer</i></p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
       <img src="https://img.shields.io/github/stars/DanielDeshmukh/proteus?style=flat-square&color=6366f1" />
-      <a href="https://proteus-phi.vercel.app"><img src="https://img.shields.io/badge/Live-6366f1?style=flat-square" /></a>
+      <a href="https://proteus-phi.vercel.app"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a>
     </td>
   </tr>
   <tr>
@@ -100,20 +103,22 @@
       <h4><a href="https://github.com/DanielDeshmukh/CodeSage">CodeSage</a></h4>
       <p><i>AI codebase examiner for interviews</i></p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
       <img src="https://img.shields.io/github/stars/DanielDeshmukh/CodeSage?style=flat-square&color=6366f1" />
-      <a href="https://codesage-nu.vercel.app"><img src="https://img.shields.io/badge/Live-6366f1?style=flat-square" /></a>
+      <a href="https://codesage-nu.vercel.app"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a>
     </td>
     <td width="33%" valign="top">
       <h4><a href="https://github.com/DanielDeshmukh/github-profile-score">github-profile-score</a></h4>
       <p><i>Embeddable GitHub profile scorer</i></p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
       <img src="https://img.shields.io/github/stars/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1" />
     </td>
     <td width="33%" valign="top">
       <h4><a href="https://github.com/DanielDeshmukh/TradeX">TradeX</a></h4>
-      <p><i>AI-powered trading platform</i></p>
+      <p><i>AI-powered trading platform for beginners</i></p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/github/stars/DanielDeshmukh/TradeX?style=flat-square&color=6366f1" />
     </td>
   </tr>

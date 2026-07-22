@@ -1,0 +1,50 @@
+name: Update Profile Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate metrics
+        id: metrics
+        run: |
+          REPOS=$(curl -s "https://api.github.com/users/${{ github.repository_owner }}/repos?per_page=100&type=public")
+
+          REPO_COUNT=$(echo "$REPOS" | python3 -c "import sys,json; print(len(json.load(sys.stdin)))")
+          STAR_COUNT=$(echo "$REPOS" | python3 -c "import sys,json; print(sum(r['stargazers_count'] for r in json.load(sys.stdin)))")
+          LIVE_COUNT=$(echo "$REPOS" | python3 -c "import sys,json; print(sum(1 for r in json.load(sys.stdin) if r.get('homepage') and r['homepage'].strip() != ''))")
+
+          echo "repos=$REPO_COUNT" >> "$GITHUB_OUTPUT"
+          echo "stars=$STAR_COUNT" >> "$GITHUB_OUTPUT"
+          echo "live=$LIVE_COUNT" >> "$GITHUB_OUTPUT"
+
+          echo "Repos: $REPO_COUNT"
+          echo "Stars: $STAR_COUNT"
+          echo "Live apps: $LIVE_COUNT"
+
+      - name: Update README
+        run: |
+          REPOS="${{ steps.metrics.outputs.repos }}"
+          STARS="${{ steps.metrics.outputs.stars }}"
+          LIVE="${{ steps.metrics.outputs.live }}"
+
+          sed -i "s|https://img.shields.io/badge/[0-9]*_repos-181818|https://img.shields.io/badge/${REPOS}_repos-181818|g" README.md
+          sed -i "s|https://img.shields.io/badge/[0-9]*_stars-181818|https://img.shields.io/badge/${STARS}_stars-181818|g" README.md
+          sed -i "s|https://img.shields.io/badge/[0-9]*_live_apps-181818|https://img.shields.io/badge/${LIVE}_live_apps-181818|g" README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update profile metrics — ${{ steps.metrics.outputs.repos }} repos, ${{ steps.metrics.outputs.stars }} stars, ${{ steps.metrics.outputs.live }} live apps"
+          git push
