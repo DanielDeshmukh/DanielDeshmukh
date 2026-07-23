@@ -16,12 +16,14 @@ jobs:
 
       - name: Calculate metrics
         id: metrics
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          REPOS=$(curl -s "https://api.github.com/users/${{ github.repository_owner }}/repos?per_page=100&type=public")
+          REPOS=$(gh api "users/${{ github.repository_owner }}/repos?per_page=100&type=public" --paginate)
 
-          REPO_COUNT=$(echo "$REPOS" | python3 -c "import sys,json; print(len(json.load(sys.stdin)))")
-          STAR_COUNT=$(echo "$REPOS" | python3 -c "import sys,json; print(sum(r['stargazers_count'] for r in json.load(sys.stdin)))")
-          LIVE_COUNT=$(echo "$REPOS" | python3 -c "import sys,json; print(sum(1 for r in json.load(sys.stdin) if r.get('homepage') and r['homepage'].strip() != ''))")
+          REPO_COUNT=$(echo "$REPOS" | python3 -c "import sys,json; data=json.load(sys.stdin); print(len(data))")
+          STAR_COUNT=$(echo "$REPOS" | python3 -c "import sys,json; data=json.load(sys.stdin); print(sum(r['stargazers_count'] for r in data))")
+          LIVE_COUNT=$(echo "$REPOS" | python3 -c "import sys,json; data=json.load(sys.stdin); print(sum(1 for r in data if r.get('homepage') and r['homepage'].strip() != ''))")
 
           echo "repos=$REPO_COUNT" >> "$GITHUB_OUTPUT"
           echo "stars=$STAR_COUNT" >> "$GITHUB_OUTPUT"
