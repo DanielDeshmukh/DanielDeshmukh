@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <sub><b>Currently:</b> Fine-tuning Mistral 7B on Indian statutory law (THEMIS) · Targeting AI Engineer roles in Germany & Abu Dhabi</sub>
+  <sub><b>Currently:</b> THEMIS v5 — retrieval-grounded legal LLM on Indian statutory law · 52,170 training examples · Targeting AI Engineer roles in Germany & Abu Dhabi</sub>
 </p>
 
 <br/>
@@ -59,9 +59,10 @@
     </td>
     <td width="33%" valign="top">
       <h4><a href="https://github.com/DanielDeshmukh/themis">THEMIS</a></h4>
-      <p><i>LoRA fine-tune of Mistral 7B on Indian law</i></p>
+      <p><i>Parametric legal LLM for Indian law — v5 retrieval-grounded</i></p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <a href="https://huggingface.co/Daniel2503/themis-mistral-7b-lora-v3"><img src="https://img.shields.io/badge/themis--v3-181818?style=flat-square&logo=huggingface&logoColor=white" /></a>
+      <a href="https://huggingface.co/Daniel2503/themis-mistral-7b-lora-v5"><img src="https://img.shields.io/badge/themis--v5-181818?style=flat-square&logo=huggingface&logoColor=white" /></a>
+      <img src="https://img.shields.io/pypi/v/themis-llm?color=6366f1&label=PyPI&style=flat-square" />
       <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat-square&color=6366f1" />
     </td>
     <td width="33%" valign="top">
@@ -280,7 +281,7 @@
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat-square&color=6366f1&label=stars" />
   <img src="https://img.shields.io/github/forks/DanielDeshmukh/themis?style=flat-square&color=6366f1&label=forks" />
 </td>
-<td>Domain-specific LLM fine-tuned on Indian statutory law</td>
+<td>Parametric legal LLM for Indian law — 52k examples, retrieval-grounded, PyPI SDK</td>
 </tr>
 
 <tr>
