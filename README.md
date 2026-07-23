@@ -36,7 +36,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/62_stars-181818?style=for-the-badge&logo=github&logoColor=yellow" />
   &nbsp;
-  <img src="https://img.shields.io/badge/5_live_apps-181818?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/12_live_apps-181818?style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/PyPI_package-181818?style=for-the-badge&logo=pypi&logoColor=white" />
 </div>
