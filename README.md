@@ -32,11 +32,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/20_repos-181818?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/21_repos-181818?style=for-the-badge&logo=github&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/62_stars-181818?style=for-the-badge&logo=github&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/63_stars-181818?style=for-the-badge&logo=github&logoColor=yellow" />
   &nbsp;
-  <img src="https://img.shields.io/badge/12_live_apps-181818?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/11_live_apps-181818?style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/PyPI_package-181818?style=for-the-badge&logo=pypi&logoColor=white" />
 </div>
