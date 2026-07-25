@@ -296,6 +296,15 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/DanielDeshmukh/themis-mcp">themis-mcp</a></td>
+<td align="center" >
+  <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis-mcp?style=flat-square&color=6366f1&label=stars" />
+  <img src="https://img.shields.io/github/forks/DanielDeshmukh/themis-mcp?style=flat-square&color=6366f1&label=forks" />
+</td>
+<td>MCP server for THEMIS — Indian statutory law Q&A via local LLM</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/DanielDeshmukh/aether">aether</a></td>
 <td align="center" >
   <img src="https://img.shields.io/github/stars/DanielDeshmukh/aether?style=flat-square&color=6366f1&label=stars" />
