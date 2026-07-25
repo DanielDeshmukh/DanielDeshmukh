@@ -127,6 +127,17 @@
 
 ---
 
+## PyPI Packages
+
+| Package | Description | Install | Stats |
+|---------|-------------|---------|-------|
+| [**autobot-swarm**](https://pypi.org/project/autobot-swarm/) | Hierarchical multi-cluster coding swarm CLI | `pip install autobot-swarm` | <a href="https://pypi.org/project/autobot-swarm/"><img src="https://img.shields.io/pypi/v/autobot-swarm?color=6366f1&style=flat-square&logo=pypi&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/autobots?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
+| [**ella-sdk**](https://pypi.org/project/ella-sdk/) | Medical Triage & Clinical RAG Engine | `pip install ella-sdk` | <a href="https://pypi.org/project/ella-sdk/"><img src="https://img.shields.io/pypi/v/ella-sdk?color=6366f1&style=flat-square&logo=pypi&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
+| [**themis-llm**](https://pypi.org/project/themis-llm/) | Retrieval-grounded LLM for Indian statutory law | `pip install themis-llm` | <a href="https://pypi.org/project/themis-llm/"><img src="https://img.shields.io/pypi/v/themis-llm?color=6366f1&style=flat-square&logo=pypi&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
+| [**themis-mcp**](https://pypi.org/project/themis-mcp/) | MCP server for THEMIS — law Q&A via local LLM | `pip install themis-mcp` | <a href="https://pypi.org/project/themis-mcp/"><img src="https://img.shields.io/pypi/v/themis-mcp?color=6366f1&style=flat-square&logo=pypi&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis-mcp?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
+
+---
+
 ## Stack
  
 <table>
