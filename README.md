@@ -32,7 +32,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/21_repos-181818?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/22_repos-181818?style=for-the-badge&logo=github&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/63_stars-181818?style=for-the-badge&logo=github&logoColor=yellow" />
   &nbsp;
