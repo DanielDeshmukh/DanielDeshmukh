@@ -418,6 +418,7 @@
 <img src="https://img.shields.io/badge/Claude%20Code%20101-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude%20Code%20in%20Action-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Intro%20to%20MCP-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Fluency%20for%20Builders-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP%20Advanced%20Topics-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Intro%20to%20Agent%20Skills-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Intro%20to%20Sub%20Agents-181717?style=for-the-badge&logo=anthropic&logoColor=white" />
