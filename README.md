@@ -19,8 +19,6 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://0.gravatar.com/avatar/90e12fd7db596e73333ea7fc7f7b0414e0e162a234e42fcad9f9f88017f6cab9?size=128" alt="Daniel Deshmukh" width="96" style="border-radius:50%;" />
-  <br/>
   Daniel Deshmukh
 </h1>
 
