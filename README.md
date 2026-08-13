@@ -127,7 +127,7 @@
 
 ---
 
-## PyPI Packages
+## Packages
 
 | Package | Description | Install | Stats |
 |---------|-------------|---------|-------|
@@ -135,6 +135,12 @@
 | [**ella-sdk**](https://pypi.org/project/ella-sdk/) | Medical Triage & Clinical RAG Engine | `pip install ella-sdk` | <a href="https://pypi.org/project/ella-sdk/"><img src="https://img.shields.io/pypi/v/ella-sdk?color=6366f1&style=flat-square&logo=pypi&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
 | [**themis-llm**](https://pypi.org/project/themis-llm/) | Retrieval-grounded LLM for Indian statutory law | `pip install themis-llm` | <a href="https://pypi.org/project/themis-llm/"><img src="https://img.shields.io/pypi/v/themis-llm?color=6366f1&style=flat-square&logo=pypi&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
 | [**themis-mcp**](https://pypi.org/project/themis-mcp/) | MCP server for THEMIS — law Q&A via local LLM | `pip install themis-mcp` | <a href="https://pypi.org/project/themis-mcp/"><img src="https://img.shields.io/pypi/v/themis-mcp?color=6366f1&style=flat-square&logo=pypi&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis-mcp?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
+
+---
+
+| Package | Description | Install | Stats |
+|---------|-------------|---------|-------|
+| [**proteus-mcp**](https://www.npmjs.com/package/proteus-mcp) | MCP server for JD-aware resume matching pipeline | `npm install -g proteus-mcp` | <a href="https://www.npmjs.com/package/proteus-mcp"><img src="https://img.shields.io/npm/v/proteus-mcp?color=cb3837&style=flat-square&logo=npm&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/proteus-mcp?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
 
 ---
 
