@@ -18,7 +18,11 @@
 
 <br/>
 
-<h1 align="center">Daniel Deshmukh</h1>
+<h1 align="center">
+  <img src="https://0.gravatar.com/avatar/90e12fd7db596e73333ea7fc7f7b0414e0e162a234e42fcad9f9f88017f6cab9?size=128" alt="Daniel Deshmukh" width="96" style="border-radius:50%;" />
+  <br/>
+  Daniel Deshmukh
+</h1>
 
 <p align="center">
   <strong>I build systems that reason — autonomous agents, RAG pipelines, and production AI.</strong><br/>
@@ -329,5 +333,13 @@
   &nbsp;
   <a href="https://x.com/DeshmukhDa71837">
     <img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://gravatar.com/wildly875fea6fbf">
+    <img src="https://img.shields.io/badge/Gravatar-181717?style=for-the-badge&logo=gravatar&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.npmjs.com/~danieldeshmukh">
+    <img src="https://img.shields.io/badge/npm-181717?style=for-the-badge&logo=npm&logoColor=CB3837" />
   </a>
 </div>
