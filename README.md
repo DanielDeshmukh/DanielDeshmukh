@@ -231,7 +231,7 @@
 | Client | Projects | Description |
 |--------|----------|-------------|
 | **Babuji Chaay** | [Website](https://github.com/DanielDeshmukh/BabujiChaay-website) · [POS System](https://github.com/DanielDeshmukh/Babuji-Chaay) | Premium café — website, franchise info, full-stack POS & inventory management |
-| **Shree Gurudev Plastics** | [E-commerce](https://github.com/DanielDeshmukh/shree-gurudev-plastics) | B2B wholesale platform — 866+ products, WhatsApp Business integration |
+| **Shree Gurudev Plastics** | [E-commerce](https://github.com/DanielDeshmukh/shree-gurudev-plastics) | B2B wholesale platform — 1361+ products, WhatsApp Business integration |
 
 ---
 
