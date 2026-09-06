@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <sub><b>Currently:</b> THEMIS v5 — retrieval-grounded legal LLM on Indian statutory law · 52,170 training examples · Targeting AI Engineer roles in Germany & Abu Dhabi</sub>
+  <sub><b>Currently:</b> Shree Gurudev Plastics - E commerce & Inventory website </sub>
 </p>
 
 <br/>
