@@ -47,102 +47,58 @@
 
 ---
 
-## Pinned Repos
+## Projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/DanielDeshmukh/autobots">autobot-swarm</a></h4>
-      <p><i>Multi-agent CLI for NVIDIA NIM orchestration</i></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/DanielDeshmukh/autobots?style=flat-square&color=6366f1" />
-      <img src="https://img.shields.io/pypi/v/autobot-swarm?color=6366f1&label=PyPI&style=flat-square" />
-    </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/DanielDeshmukh/themis">THEMIS</a></h4>
-      <p><i>Parametric legal LLM for Indian law — v5 retrieval-grounded</i></p>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <a href="https://huggingface.co/Daniel2503/themis-mistral-7b-lora-v5"><img src="https://img.shields.io/badge/themis--v5-181818?style=flat-square&logo=huggingface&logoColor=white" /></a>
-      <img src="https://img.shields.io/pypi/v/themis-llm?color=6366f1&label=PyPI&style=flat-square" />
-      <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat-square&color=6366f1" />
-    </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/DanielDeshmukh/aether">AETHER</a></h4>
-      <p><i>Autonomous pentest with agentic reasoning</i></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/DanielDeshmukh/aether?style=flat-square&color=6366f1" />
-      <a href="https://aether-pentesting.netlify.app/"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/DanielDeshmukh/Hector">HECTOR</a></h4>
-      <p><i>Zero-hallucination legal RAG for Indian law</i></p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/DanielDeshmukh/Hector?style=flat-square&color=6366f1" />
-      <a href="https://hector-nine.vercel.app/landing"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/DanielDeshmukh/ella">Ella</a></h4>
-      <p><i>Medical triage RAG with hallucination guardrails</i></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&color=6366f1" />
-      <img src="https://img.shields.io/pypi/v/ella-sdk?color=6366f1&label=PyPI&style=flat-square" />
-    </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/DanielDeshmukh/proteus">PROTEUS</a></h4>
-      <p><i>5-agent JD-aware resume analyzer</i></p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/DanielDeshmukh/proteus?style=flat-square&color=6366f1" />
-      <a href="https://proteus-phi.vercel.app"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/DanielDeshmukh/CodeSage">CodeSage</a></h4>
-      <p><i>AI codebase examiner for interviews</i></p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/DanielDeshmukh/CodeSage?style=flat-square&color=6366f1" />
-      <a href="https://codesage-nu.vercel.app"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/DanielDeshmukh/github-profile-score">github-profile-score</a></h4>
-      <p><i>Embeddable GitHub profile scorer</i></p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1" />
-    </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/DanielDeshmukh/TradeX">TradeX</a></h4>
-      <p><i>AI-powered trading platform for beginners</i></p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/DanielDeshmukh/TradeX?style=flat-square&color=6366f1" />
-    </td>
-  </tr>
-</table>
+### Legal Tech
+
+| Project | Description | Stats | Link |
+|---------|-------------|-------|------|
+| [**THEMIS**](https://github.com/DanielDeshmukh/themis) | Parametric legal LLM for Indian law — 52k examples, retrieval-grounded | <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/themis?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://pypi.org/project/themis-llm/"><img src="https://img.shields.io/pypi/v/themis-llm?color=6366f1&style=flat-square&logo=pypi&logoColor=white&label=PyPI" /></a> |
+| [**HECTOR**](https://github.com/DanielDeshmukh/Hector) | Zero-hallucination Hard-RAG legal intelligence for Indian law | <img src="https://img.shields.io/github/stars/DanielDeshmukh/Hector?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/Hector?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://hector-nine.vercel.app/landing"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a> |
+| [**THEMIS MCP**](https://github.com/DanielDeshmukh/themis-mcp) | MCP server for THEMIS — law Q&A via local LLM | <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis-mcp?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/themis-mcp?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://pypi.org/project/themis-mcp/"><img src="https://img.shields.io/pypi/v/themis-mcp?color=6366f1&style=flat-square&logo=pypi&logoColor=white&label=PyPI" /></a> |
 
 ---
 
-## Packages
+### Career Tools
 
-| Package | Description | Install | Stats |
-|---------|-------------|---------|-------|
-| [**autobot-swarm**](https://pypi.org/project/autobot-swarm/) | Hierarchical multi-cluster coding swarm CLI | `pip install autobot-swarm` | <a href="https://pypi.org/project/autobot-swarm/"><img src="https://img.shields.io/pypi/v/autobot-swarm?color=6366f1&style=flat-square&logo=pypi&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/autobots?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
-| [**ella-sdk**](https://pypi.org/project/ella-sdk/) | Medical Triage & Clinical RAG Engine | `pip install ella-sdk` | <a href="https://pypi.org/project/ella-sdk/"><img src="https://img.shields.io/pypi/v/ella-sdk?color=6366f1&style=flat-square&logo=pypi&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
-| [**themis-llm**](https://pypi.org/project/themis-llm/) | Retrieval-grounded LLM for Indian statutory law | `pip install themis-llm` | <a href="https://pypi.org/project/themis-llm/"><img src="https://img.shields.io/pypi/v/themis-llm?color=6366f1&style=flat-square&logo=pypi&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
-| [**themis-mcp**](https://pypi.org/project/themis-mcp/) | MCP server for THEMIS — law Q&A via local LLM | `pip install themis-mcp` | <a href="https://pypi.org/project/themis-mcp/"><img src="https://img.shields.io/pypi/v/themis-mcp?color=6366f1&style=flat-square&logo=pypi&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis-mcp?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
+| Project | Description | Stats | Link |
+|---------|-------------|-------|------|
+| [**PROTEUS**](https://github.com/DanielDeshmukh/proteus) | 5-agent JD-aware resume matching pipeline | <img src="https://img.shields.io/github/stars/DanielDeshmukh/proteus?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/proteus?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://proteus-phi.vercel.app"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a> |
+| [**PROTEUS MCP**](https://github.com/DanielDeshmukh/proteus-mcp) | MCP server for resume matching — scoring, gaps, rewrites | <img src="https://img.shields.io/github/stars/DanielDeshmukh/proteus-mcp?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/proteus-mcp?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://www.npmjs.com/package/proteus-mcp"><img src="https://img.shields.io/npm/v/proteus-mcp?color=cb3837&style=flat-square&logo=npm&logoColor=white&label=npm" /></a> |
+| [**CodeSage**](https://github.com/DanielDeshmukh/CodeSage) | AI codebase examiner for interviews & viva voce | <img src="https://img.shields.io/github/stars/DanielDeshmukh/CodeSage?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/CodeSage?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://codesage-nu.vercel.app"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a> |
+| [**github-profile-score**](https://github.com/DanielDeshmukh/github-profile-score) | Embeddable GitHub profile scorer — job-readiness badges | <img src="https://img.shields.io/github/stars/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://www.npmjs.com/package/github-profile-score"><img src="https://img.shields.io/npm/v/github-profile-score?color=cb3837&style=flat-square&logo=npm&logoColor=white&label=npm" /></a> |
 
 ---
 
-| Package | Description | Install | Stats |
-|---------|-------------|---------|-------|
-| [**proteus-mcp**](https://www.npmjs.com/package/proteus-mcp) | MCP server for JD-aware resume matching pipeline | `npm install -g proteus-mcp` | <a href="https://www.npmjs.com/package/proteus-mcp"><img src="https://img.shields.io/npm/v/proteus-mcp?color=cb3837&style=flat-square&logo=npm&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/DanielDeshmukh/proteus-mcp?style=flat-square&color=6366f1&logo=github&logoColor=white" /> |
+### AI Agents
+
+| Project | Description | Stats | Link |
+|---------|-------------|-------|------|
+| [**Autobots**](https://github.com/DanielDeshmukh/autobots) | Decentralized multi-agent swarm via NVIDIA NIM | <img src="https://img.shields.io/github/stars/DanielDeshmukh/autobots?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/autobots?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://pypi.org/project/autobot-swarm/"><img src="https://img.shields.io/pypi/v/autobot-swarm?color=6366f1&style=flat-square&logo=pypi&logoColor=white&label=PyPI" /></a> |
+| [**Ella**](https://github.com/DanielDeshmukh/ella) | RAG-based medical triage & clinical reasoning engine | <img src="https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/ella?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://pypi.org/project/ella-sdk/"><img src="https://img.shields.io/pypi/v/ella-sdk?color=6366f1&style=flat-square&logo=pypi&logoColor=white&label=PyPI" /></a> |
+
+---
+
+### Client Projects
+
+| Project | Description | Stats | Link |
+|---------|-------------|-------|------|
+| [**Babuji Chaay — Website**](https://github.com/DanielDeshmukh/BabujiChaay-website) | Premium café — product listings, franchise info, WhatsApp integration | <img src="https://img.shields.io/github/stars/DanielDeshmukh/BabujiChaay-website?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/BabujiChaay-website?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://babujichaay.com"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a> |
+| [**Babuji Chaay — POS**](https://github.com/DanielDeshmukh/Babuji-Chaay) | Full-stack POS & inventory management for cafés | <img src="https://img.shields.io/github/stars/DanielDeshmukh/Babuji-Chaay?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/Babuji-Chaay?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
+| [**Shree Gurudev Plastics**](https://github.com/DanielDeshmukh/shree-gurudev-plastics) | B2B wholesale e-commerce — 1,361+ products, WhatsApp integration | <img src="https://img.shields.io/github/stars/DanielDeshmukh/shree-gurudev-plastics?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/shree-gurudev-plastics?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://shree-gurudev-plastics.vercel.app"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a> |
+| [**Interior Designs Template**](https://github.com/DanielDeshmukh/Interior-Designs-Template) | Design showcase portfolio with SEO & WhatsApp API | <img src="https://img.shields.io/github/stars/DanielDeshmukh/Interior-Designs-Template?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/Interior-Designs-Template?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://danieldeshmukh-webdesigns.netlify.app"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a> |
+
+---
+
+### Full-Stack Apps
+
+| Project | Description | Stats | Link |
+|---------|-------------|-------|------|
+| [**TradeX**](https://github.com/DanielDeshmukh/TradeX) | AI-powered trading platform for beginners | <img src="https://img.shields.io/github/stars/DanielDeshmukh/TradeX?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/TradeX?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
+| [**AETHER**](https://github.com/DanielDeshmukh/aether) | Autonomous pentest with agentic reasoning | <img src="https://img.shields.io/github/stars/DanielDeshmukh/aether?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/aether?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://aether-pentesting.netlify.app"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a> |
+| [**Beetive**](https://github.com/DanielDeshmukh/beetive) | React Native hemodialysis dialyzer tracking via BLE | <img src="https://img.shields.io/github/stars/DanielDeshmukh/beetive?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/beetive?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
+| [**Sportz Websockets**](https://github.com/DanielDeshmukh/sportz-websockets) | Express + Postgres live match commentary | <img src="https://img.shields.io/github/stars/DanielDeshmukh/sportz-websockets?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/sportz-websockets?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
+| [**Portfolio**](https://github.com/DanielDeshmukh/Portfolio) | Full-stack developer portfolio | <img src="https://img.shields.io/github/stars/DanielDeshmukh/Portfolio?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/Portfolio?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://danieldeshmukh.netlify.app"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a> |
 
 ---
 
@@ -223,15 +179,6 @@
     <img src="https://img.shields.io/badge/Agentic_Security-181818?style=for-the-badge&logo=owasp&logoColor=white" />
   </a>
 </div>
-
----
-
-## Client Projects
-
-| Client | Projects | Description |
-|--------|----------|-------------|
-| **Babuji Chaay** | [Website](https://github.com/DanielDeshmukh/BabujiChaay-website) · [POS System](https://github.com/DanielDeshmukh/Babuji-Chaay) | Premium café — website, franchise info, full-stack POS & inventory management |
-| **Shree Gurudev Plastics** | [E-commerce](https://github.com/DanielDeshmukh/shree-gurudev-plastics) | B2B wholesale platform — 1361+ products, WhatsApp Business integration |
 
 ---
 
