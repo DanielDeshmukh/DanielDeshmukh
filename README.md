@@ -56,6 +56,7 @@
 | [**THEMIS**](https://github.com/DanielDeshmukh/themis) | Parametric legal LLM for Indian law — 52k examples, retrieval-grounded | <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/themis?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://pypi.org/project/themis-llm/"><img src="https://img.shields.io/pypi/v/themis-llm?color=6366f1&style=flat-square&logo=pypi&logoColor=white&label=PyPI" /></a> |
 | [**HECTOR**](https://github.com/DanielDeshmukh/Hector) | Zero-hallucination Hard-RAG legal intelligence for Indian law | <img src="https://img.shields.io/github/stars/DanielDeshmukh/Hector?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/Hector?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://hector-nine.vercel.app/landing"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a> |
 | [**THEMIS MCP**](https://github.com/DanielDeshmukh/themis-mcp) | MCP server for THEMIS — law Q&A via local LLM | <img src="https://img.shields.io/github/stars/DanielDeshmukh/themis-mcp?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/themis-mcp?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://pypi.org/project/themis-mcp/"><img src="https://img.shields.io/pypi/v/themis-mcp?color=6366f1&style=flat-square&logo=pypi&logoColor=white&label=PyPI" /></a> |
+| [**Vault**](https://github.com/DanielDeshmukh/vault) | Enterprise knowledge retrieval with permission-aware RAG | <img src="https://img.shields.io/github/stars/DanielDeshmukh/vault?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/vault?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
 
 ---
 
@@ -84,6 +85,15 @@
 |---------|-------------|-------|------|
 | [**Autobots**](https://github.com/DanielDeshmukh/autobots) | Decentralized multi-agent swarm via NVIDIA NIM | <img src="https://img.shields.io/github/stars/DanielDeshmukh/autobots?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/autobots?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://pypi.org/project/autobot-swarm/"><img src="https://img.shields.io/pypi/v/autobot-swarm?color=6366f1&style=flat-square&logo=pypi&logoColor=white&label=PyPI" /></a> |
 | [**Ella**](https://github.com/DanielDeshmukh/ella) | RAG-based medical triage & clinical reasoning engine | <img src="https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/ella?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://pypi.org/project/ella-sdk/"><img src="https://img.shields.io/pypi/v/ella-sdk?color=6366f1&style=flat-square&logo=pypi&logoColor=white&label=PyPI" /></a> |
+
+---
+
+### DSA & Interview Prep
+
+| Project | Description | Stats | Link |
+|---------|-------------|-------|------|
+| [**dsa-python**](https://github.com/DanielDeshmukh/dsa-python) | DSA patterns — 15 core interview patterns, not problem number | <img src="https://img.shields.io/github/stars/DanielDeshmukh/dsa-python?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/dsa-python?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
+| [**dsa-java**](https://github.com/DanielDeshmukh/dsa-java) | Java DSA — 15 coding patterns for interview prep | <img src="https://img.shields.io/github/stars/DanielDeshmukh/dsa-java?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/dsa-java?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
 
 ---
 
