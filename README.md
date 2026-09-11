@@ -91,10 +91,10 @@
 
 ### DSA & Interview Prep
 
-| Project | Description | Stats | Link |
-|---------|-------------|-------|------|
-| [**dsa-python**](https://github.com/DanielDeshmukh/dsa-python) | DSA patterns — 15 core interview patterns, not problem number | <img src="https://img.shields.io/github/stars/DanielDeshmukh/dsa-python?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/dsa-python?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
-| [**dsa-java**](https://github.com/DanielDeshmukh/dsa-java) | Java DSA — 15 coding patterns for interview prep | <img src="https://img.shields.io/github/stars/DanielDeshmukh/dsa-java?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/dsa-java?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
+| Project | Description | Stats |
+|---------|-------------|-------|
+| [**dsa-python**](https://github.com/DanielDeshmukh/dsa-python) | DSA patterns — 15 core interview patterns, not problem number | <img src="https://img.shields.io/github/stars/DanielDeshmukh/dsa-python?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/dsa-python?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> |
+| [**dsa-java**](https://github.com/DanielDeshmukh/dsa-java) | Java DSA — 15 coding patterns for interview prep | <img src="https://img.shields.io/github/stars/DanielDeshmukh/dsa-java?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/dsa-java?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> |
 
 ---
 
