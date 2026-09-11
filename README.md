@@ -72,10 +72,10 @@
 
 ### Developer Tools
 
-| Project | Description | Stats | Link |
-|---------|-------------|-------|------|
-| [**awesome-nvidia-nim**](https://github.com/DanielDeshmukh/awesome-nvidia-nim) | Curated list of NVIDIA NIM resources, tools & projects | <img src="https://img.shields.io/github/stars/DanielDeshmukh/awesome-nvidia-nim?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/awesome-nvidia-nim?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
-| [**github-profile-score**](https://github.com/DanielDeshmukh/github-profile-score) | Embeddable GitHub profile scorer — job-readiness badges | <img src="https://img.shields.io/github/stars/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
+| Project | Description | Stats |
+|---------|-------------|-------|
+| [**awesome-nvidia-nim**](https://github.com/DanielDeshmukh/awesome-nvidia-nim) | Curated list of NVIDIA NIM resources, tools & projects | <img src="https://img.shields.io/github/stars/DanielDeshmukh/awesome-nvidia-nim?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/awesome-nvidia-nim?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> |
+| [**github-profile-score**](https://github.com/DanielDeshmukh/github-profile-score) | Embeddable GitHub profile scorer — job-readiness badges | <img src="https://img.shields.io/github/stars/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> |
 
 ---
 
