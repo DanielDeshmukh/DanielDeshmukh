@@ -66,6 +66,14 @@
 | [**PROTEUS**](https://github.com/DanielDeshmukh/proteus) | 5-agent JD-aware resume matching pipeline | <img src="https://img.shields.io/github/stars/DanielDeshmukh/proteus?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/proteus?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://proteus-phi.vercel.app"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a> |
 | [**PROTEUS MCP**](https://github.com/DanielDeshmukh/proteus-mcp) | MCP server for resume matching — scoring, gaps, rewrites | <img src="https://img.shields.io/github/stars/DanielDeshmukh/proteus-mcp?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/proteus-mcp?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://www.npmjs.com/package/proteus-mcp"><img src="https://img.shields.io/npm/v/proteus-mcp?color=cb3837&style=flat-square&logo=npm&logoColor=white&label=npm" /></a> |
 | [**CodeSage**](https://github.com/DanielDeshmukh/CodeSage) | AI codebase examiner for interviews & viva voce | <img src="https://img.shields.io/github/stars/DanielDeshmukh/CodeSage?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/CodeSage?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://codesage-nu.vercel.app"><img src="https://img.shields.io/badge/Live-181818?style=flat-square" /></a> |
+
+---
+
+### Developer Tools
+
+| Project | Description | Stats | Link |
+|---------|-------------|-------|------|
+| [**awesome-nvidia-nim**](https://github.com/DanielDeshmukh/awesome-nvidia-nim) | Curated list of NVIDIA NIM resources, tools & projects | <img src="https://img.shields.io/github/stars/DanielDeshmukh/awesome-nvidia-nim?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/awesome-nvidia-nim?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
 | [**github-profile-score**](https://github.com/DanielDeshmukh/github-profile-score) | Embeddable GitHub profile scorer — job-readiness badges | <img src="https://img.shields.io/github/stars/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/github-profile-score?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
 
 ---
@@ -75,7 +83,6 @@
 | Project | Description | Stats | Link |
 |---------|-------------|-------|------|
 | [**Autobots**](https://github.com/DanielDeshmukh/autobots) | Decentralized multi-agent swarm via NVIDIA NIM | <img src="https://img.shields.io/github/stars/DanielDeshmukh/autobots?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/autobots?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://pypi.org/project/autobot-swarm/"><img src="https://img.shields.io/pypi/v/autobot-swarm?color=6366f1&style=flat-square&logo=pypi&logoColor=white&label=PyPI" /></a> |
-| [**awesome-nvidia-nim**](https://github.com/DanielDeshmukh/awesome-nvidia-nim) | Curated list of NVIDIA NIM resources, tools & projects | <img src="https://img.shields.io/github/stars/DanielDeshmukh/awesome-nvidia-nim?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/awesome-nvidia-nim?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | — |
 | [**Ella**](https://github.com/DanielDeshmukh/ella) | RAG-based medical triage & clinical reasoning engine | <img src="https://img.shields.io/github/stars/DanielDeshmukh/ella?style=flat-square&color=6366f1&label=stars&logo=github&logoColor=white" /> <img src="https://img.shields.io/github/forks/DanielDeshmukh/ella?style=flat-square&color=6366f1&label=forks&logo=github&logoColor=white" /> | <a href="https://pypi.org/project/ella-sdk/"><img src="https://img.shields.io/pypi/v/ella-sdk?color=6366f1&style=flat-square&logo=pypi&logoColor=white&label=PyPI" /></a> |
 
 ---
