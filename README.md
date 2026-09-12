@@ -34,7 +34,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/30_repos-181818?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/29_repos-181818?style=for-the-badge&logo=github&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/61_stars-181818?style=for-the-badge&logo=github&logoColor=yellow" />
   &nbsp;
