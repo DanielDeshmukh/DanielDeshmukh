@@ -23,7 +23,9 @@ jobs:
 
           REPO_COUNT=$(echo "$REPOS" | python3 -c "import sys,json; data=json.load(sys.stdin); print(len(data))")
           STAR_COUNT=$(echo "$REPOS" | python3 -c "import sys,json; data=json.load(sys.stdin); print(sum(r['stargazers_count'] for r in data))")
-          LIVE_COUNT=$(echo "$REPOS" | python3 -c "import sys,json; data=json.load(sys.stdin); print(sum(1 for r in data if r.get('homepage') and r['homepage'].strip() != ''))")
+
+          # Count live apps from README badge links (source of truth)
+          LIVE_COUNT=$(grep -c 'badge/Live-' README.md || echo "0")
 
           echo "repos=$REPO_COUNT" >> "$GITHUB_OUTPUT"
           echo "stars=$STAR_COUNT" >> "$GITHUB_OUTPUT"
