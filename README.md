@@ -31,20 +31,6 @@
   <sub><b>Currently:</b> Shree Gurudev Plastics - E commerce & Inventory website </sub>
 </p>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/30_repos-181818?style=for-the-badge&logo=github&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/63_stars-181818?style=for-the-badge&logo=github&logoColor=yellow" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/9_live_apps-181818?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PyPI_package-181818?style=for-the-badge&logo=pypi&logoColor=white" />
-</div>
-
-<br/>
-
 ---
 
 ## Projects
